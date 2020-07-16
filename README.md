@@ -25,7 +25,7 @@ Hey there, I am Nischal. I am a Student, a Developer, and an Inventor, dating li
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: :email: namaste(at)nischal(dot)info(dot)np :telephone_receiver: +977 9866253930
 - ⚡ Fun fact: 
-- house_with_garden Location: Kathmandu, Nepal
+- :house_with_garden: Location: Kathmandu, Nepal
 
 ### Programming Languages 🌐
 
