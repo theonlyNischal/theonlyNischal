@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Hey there, I am Nischal. I am a Student, a Developer, and an Inventor, dating life since the past 21 years and have decided to stay here for 100 years.
 
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me: :email: namaste(at)nischal(dot)info(dot)np :telephone_receiver: +977 9866253930
+- 📫 How to reach me: :email: namaste(at)nischal(dot)info(dot)np        :telephone_receiver: +977 9866253930
 - ⚡ Fun fact: 
 - :house_with_garden: Location: Kathmandu, Nepal
 
