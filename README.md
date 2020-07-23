@@ -57,5 +57,28 @@ Hey there, I am Nischal. I am a Student, a Developer, and an Inventor, dating li
 </table>
 
 ### Tools
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>OpenCV</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/opencv.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>**PyTorch**</span><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo.png/800px-Pytorch_logo.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Django</span><br>
+        <img height="64px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Scikit-Learn</span><br>
+        <img height="64px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
 
 ### Social Medias and Other Accounts
