@@ -32,19 +32,19 @@ Hey there, I am Nischal. I am a Student, a Developer, and an Inventor, dating li
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Python</span><br><br><br>
+        <span>Python</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>C++</span><br><br><br>
+        <span>C++</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="25%" align="center">
-        <span>C</span><br><br><br>
+        <span>C</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
+        <span>Javascript</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
