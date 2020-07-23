@@ -65,7 +65,7 @@ Hey there, I am Nischal. I am a Student, a Developer, and an Inventor, dating li
         <img height="64px" src="https://cdn.svgporn.com/logos/opencv.svg">
       </td>
       <td width="20%" align="center">
-        <span>**PyTorch**</span><br>
+        <span><b>PyTorch</b></span><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo.png/800px-Pytorch_logo.png">
       </td>
       <td width="20%" align="center">
