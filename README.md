@@ -27,6 +27,11 @@ Hey there, I am Nischal. I am a Student, a Developer, and an Inventor, dating li
 - ⚡ Fun fact: 
 - :house_with_garden: Location: Kathmandu, Nepal
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=theonlynischal&show_icons=true" alt="theonlynischal" /> 
+
+</p>
+
 ### Programming Languages 🌐
 <table>
   <tbody>
@@ -83,5 +88,5 @@ Hey there, I am Nischal. I am a Student, a Developer, and an Inventor, dating li
 
 ### Social Medias and Other Accounts
 
-| [<img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="github logo" width="34">](https://github.com/theonlynischal) | [<img src="https://cdn.svgporn.com/logos/instagram-icon.svg" alt="instagram logo" width="24">](https://www.instagram.com/dakkulanthu/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/theonlynischal)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/theonlynischal) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/dakkulanthu) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/7098064/nischal-lal-shrestha) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/theonlynischal) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/NischalLalShrestha)
+| [<img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="github logo" width="34">](https://github.com/theonlynischal) | [<img src="https://cdn.svgporn.com/logos/instagram-icon.svg" alt="instagram logo" width="24">](https://www.instagram.com/dakkulanthu/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/theonlynischal)| [<img src="https://cdn.svgporn.com/logos/facebook.svg" alt="fb logo" width="24">](https://www.facebook.com/dakkulanthu) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/dakkulanthu) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/7098064/nischal-lal-shrestha) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/theonlynischal) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/NischalLalShrestha)
 |---|---|---|---|---|---|---|---|
