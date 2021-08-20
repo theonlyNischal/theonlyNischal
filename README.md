@@ -28,10 +28,10 @@ Hey there, I am Nischal. I am a Student, a Developer, and an Inventor, dating li
 - ⚡ Fun fact: 
 - :house_with_garden: Location: Kathmandu, Nepal
 
-<!-- <p align="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=theonlynischal&show_icons=true" alt="theonlynischal" /> 
 
-</p> -->
+</p>
 
 ### Programming Languages 🌐
 <table>
