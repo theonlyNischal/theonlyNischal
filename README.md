@@ -27,6 +27,15 @@ Here are some ideas to get you started:
 
 #### I Love Everything That Makes Me More Human
 
+      ----------------------------------------
+      Nischal, Hello World!!
+      ----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+
 "A Heart :hearts: on Two Legs", My Grandfather used to call me.
 
 Hey there, I am Nischal. I am a Student, a Developer, and an Inventor, dating life since the past 21 years and have decided to stay here for 100 years.
