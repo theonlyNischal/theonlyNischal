@@ -1,6 +1,15 @@
 <!--
 **theonlyNischal/theonlyNischal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+----------------------------------------
+Nischal, Hello World!!
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
