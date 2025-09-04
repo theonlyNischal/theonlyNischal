@@ -36,7 +36,7 @@ Here are some ideas to get you started:
               ||--0-w | \/
               ||     ||
 
-"A Heart :hearts: on Two Legs", My Grandfather used to call me.
+"A Heart :hearts: on Two Legs, My Grandfather used to call me.
 
-Hey there, I am Nischal. I am a Student, a Developer, and an Inventor, dating life since the past XX years and have decided to stay here for 100 years.
+Hey there, I am Nischal. I am a Student, a Developer, and an inventor. I have been in a dating life for the past XX years and have decided to stay here for 100 years.
 
